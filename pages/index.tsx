@@ -1,10 +1,12 @@
 import * as React from 'react'
 import { NextPage } from 'next'
 
+import Header from '../components/Header/Header'
+
 const IndexPage: NextPage = () => {
   return (
     <>
-      <h1>Tmesis 📝</h1>
+      <Header />
     </>
   )
 }
