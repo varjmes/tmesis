@@ -1,0 +1,6 @@
+{
+  "extends": ["config:base"],
+  "timezone": "Europe/London",
+  "rebaseStalePrs": false,
+  "statusCheckVerify": true
+}
